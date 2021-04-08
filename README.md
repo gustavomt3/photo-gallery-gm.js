@@ -5,17 +5,15 @@ Plugin simples em Javascript puro para galeria de imagens
 
 1 - Copie o arquivo photo-gallery-gm-min.js da pasta js e cole no seu site.
 
-2 - Link o arquivo utilizando a tag script /js é apenas um exemplo, caso você tenha colocado o arquivo dentro da pasta de plugins
+2 - Importe o arquivo o plugin no seu .js principal. 
 ```js
-<script src="./js/photo-gallery-gm-min.js"></script>;
+import PhotoGallery from './photo-gallery-gm-min.js';
 ```
 
 <h2>Funcionamento</h2>
 
 1 - Inicie o plugin com:
 ```js
-import PhotoGallery from './photo-gallery-gm-min.js';
-
 new PhotoGallery("principal");
 ```
 OBS: O principal corresponde ao nome que você irá dar ao seu data-gallery. Por exemplo: data-gallery="principal".
