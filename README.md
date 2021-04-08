@@ -14,6 +14,8 @@ Plugin simples em Javascript puro para galeria de imagens
 
 1 - Inicie o plugin com:
 ```js
+import PhotoGallery from './photo-gallery-gm-min.js';
+
 new PhotoGallery("principal");
 ```
 OBS: O principal corresponde ao nome que você irá dar ao seu data-gallery. Por exemplo: data-gallery="principal".
