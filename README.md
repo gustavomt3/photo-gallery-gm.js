@@ -92,3 +92,8 @@ OBS: O principal corresponde ao nome que você irá dar ao seu data-gallery. Por
 ```
 
 OBS: Os css's que tem ```css /*EDIT*/ ``` fique a vontade para fazer a edição que achar da melhor forma. Já os outros aconselho não modificar. 
+
+<h2>Desenvolvedor</h2>
+
+[<img src="https://avatars.githubusercontent.com/u/67303534?v=4" width=115 > <br> <sub> Gustavo Melo </sub>](https://github.com/gustavomt3) |
+| :---: |
